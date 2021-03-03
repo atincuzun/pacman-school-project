@@ -1,2 +1,2 @@
 # pacman-school-project
-pacman javafx gui for school project
+Rescaleable JavaFX gui for school project
